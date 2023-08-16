@@ -1,4 +1,4 @@
-#git 사용법
+# git 사용법
 1. git 생성
 ```bash
 git init
@@ -12,11 +12,11 @@ git add [파일이름]
 git commit -m '변경된 내용 텍스트'
 ```
 
--Untracked files : 한번도 저장된 적 없는 파일
+- Untracked files : 한번도 저장된 적 없는 파일
 
--Changes not staged for commit : 스테이지가 되지 않은 파일 
+- Changes not staged for commit : 스테이지가 되지 않은 파일 
 
--Changes to be committed : 커밋이 될 파일들 
+- Changes to be committed : 커밋이 될 파일들 
     
 4. origin url 지정
 ```bash
